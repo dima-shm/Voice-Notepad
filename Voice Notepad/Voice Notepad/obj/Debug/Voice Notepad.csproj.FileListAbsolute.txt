@@ -1,0 +1,13 @@
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\bin\Debug\Voice Notepad.exe.config
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\bin\Debug\Voice Notepad.exe
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\bin\Debug\Voice Notepad.pdb
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\MainWindow.baml
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\MainWindow.g.cs
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\App.g.cs
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice Notepad_MarkupCompile.cache
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice Notepad.g.resources
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice_Notepad.Properties.Resources.resources
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice Notepad.csproj.GenerateResource.Cache
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice Notepad.exe
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice Notepad.pdb
+D:\Study\2 курс\2 семестр\Курсовая\Voice Notepad\Voice Notepad\obj\Debug\Voice Notepad.csprojResolveAssemblyReference.cache
